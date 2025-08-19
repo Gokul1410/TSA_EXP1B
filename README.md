@@ -88,22 +88,22 @@ ORIGINAL DATA:
 
 REGULAR DIFFERENCING:
 
-<img width="726" height="573" alt="Screenshot 2025-08-19 090842" src="https://github.com/user-attachments/assets/0bfe2b72-1aa2-415e-a884-9e85713494a2" />
+<img width="742" height="570" alt="Screenshot 2025-08-19 093409" src="https://github.com/user-attachments/assets/d8a6255f-5de4-4beb-926d-0a9c93724be3" />
 
 
 SEASONAL ADJUSTMENT:
 
-<img width="730" height="570" alt="Screenshot 2025-08-19 090852" src="https://github.com/user-attachments/assets/47983838-a36d-4b6f-a78d-768cbc95c675" />
+<img width="720" height="569" alt="Screenshot 2025-08-19 093419" src="https://github.com/user-attachments/assets/60805ceb-74af-4a23-9de2-6ffdf490d40a" />
 
 
 LOG TRANSFORMATION:
 
-<img width="725" height="570" alt="Screenshot 2025-08-19 090906" src="https://github.com/user-attachments/assets/0a80b358-1492-404e-b893-f30e758d9524" />
+<img width="749" height="570" alt="Screenshot 2025-08-19 093428" src="https://github.com/user-attachments/assets/c2c25aba-4319-416d-8cdf-cbc177e6b768" />
 
 
 LOG TRANSFORMATION AND REGULAR DIFFERENCING:
 
-<img width="727" height="566" alt="Screenshot 2025-08-19 090918" src="https://github.com/user-attachments/assets/7a4df255-b3b1-466d-bdd5-5aabbb06b487" />
+<img width="723" height="570" alt="Screenshot 2025-08-19 093437" src="https://github.com/user-attachments/assets/224c0ef0-6f57-4606-b0ba-2590a4643784" />
 
 
 LOG TRANSFORMATION AND REGULAR DIFFERENCING AND SEASONAL ADJUSTMENT:
